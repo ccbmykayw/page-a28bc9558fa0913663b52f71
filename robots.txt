@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lyf888.cn/sitemap.xml
